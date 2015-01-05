@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "appDesigner",
       "projectGuid": "ed855410-8d0d-4ef1-b3ff-d3c4e4de0b3a",
-      "lastModifiedDate": 1420370076146,
+      "lastModifiedDate": 1420430356610,
       "creationDate": 1420291580458
     },
     "XDK-app-designer": "true",
@@ -34,7 +34,8 @@
     "cordovaPluginsDirectory": "plugins",
     "cordovaPlugins": [
       {
-        "id": "intel.xdk.camera",
+        "id": "org.apache.cordova.file",
+        "version": "1.1.0",
         "selectedState": "Included",
         "data": {},
         "paramvals": {}
@@ -42,6 +43,19 @@
       {
         "id": "org.apache.cordova.file-transfer",
         "version": "0.4.3",
+        "selectedState": "Included",
+        "data": {},
+        "paramvals": {}
+      },
+      {
+        "id": "org.apache.cordova.camera",
+        "version": "0.2.9",
+        "selectedState": "Included",
+        "data": {},
+        "paramvals": {}
+      },
+      {
+        "id": "intel.xdk.camera",
         "selectedState": "Included",
         "data": {},
         "paramvals": {}
@@ -59,7 +73,7 @@
         },
         "isActive_": true,
         "appName_": "FlashAndShare",
-        "appID_": "xdk.intel.ad.template",
+        "appID_": "cn.linzhihao.flashandshare.flashandshare",
         "appAccess_": "*",
         "icons_": [],
         "splashes_": [],
@@ -70,7 +84,7 @@
         "crosswalkVersion_": "stable",
         "appVersion_": "0.0.1",
         "appDescription_": "Take photo and share!",
-        "appAuthor_": "",
+        "appAuthor_": "何婷",
         "appVersionCode_": "1"
       },
       "Android-Crosswalk": {
