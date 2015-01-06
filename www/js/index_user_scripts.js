@@ -18,7 +18,7 @@
         /* button  复制到剪切板 */
     $(document).on("click", ".uib_w_6", function(evt)
     {
-        intel.xdk.device.copyToClipboard($["#URL"].html());
+        intel.xdk.device.copyToClipboard($("#URL").html());
         alert("已复制到剪切板");
         /* your code goes here */ 
     });

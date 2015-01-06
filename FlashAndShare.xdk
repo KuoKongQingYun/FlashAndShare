@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "appDesigner",
       "projectGuid": "ed855410-8d0d-4ef1-b3ff-d3c4e4de0b3a",
-      "lastModifiedDate": 1420430356610,
+      "lastModifiedDate": 1420532924468,
       "creationDate": 1420291580458
     },
     "XDK-app-designer": "true",
@@ -82,7 +82,7 @@
         "excludedLibraries_": "",
         "cordovaCLIVersion_": "3.5",
         "crosswalkVersion_": "stable",
-        "appVersion_": "0.0.1",
+        "appVersion_": "1.0.0",
         "appDescription_": "Take photo and share!",
         "appAuthor_": "何婷",
         "appVersionCode_": "1"
@@ -98,7 +98,7 @@
         },
         "isActive_": true,
         "appName_": "FlashAndShare",
-        "appID_": "xdk.intel.ad.template",
+        "appID_": "cn.linzhihao.flashandshare.flashandshare",
         "appAccess_": "*",
         "icons_": [],
         "splashes_": [],
@@ -107,9 +107,9 @@
         "excludedLibraries_": "",
         "cordovaCLIVersion_": "3.5",
         "crosswalkVersion_": "stable",
-        "appVersion_": "0.0.1",
-        "appDescription_": "Template to develop a cross-platform mobile app using the App Designer UI editor.",
-        "appAuthor_": "",
+        "appVersion_": "1.0.0",
+        "appDescription_": "Take photo and share!",
+        "appAuthor_": "何婷",
         "appVersionCode_": "1"
       },
       "iOS": {
